@@ -1,0 +1,29 @@
+h1{
+    color:#000000;
+}
+a{
+    color:#000000;
+    font-size: 40px;
+}
+.header{
+    background-color:#FF9998;
+    display:flex;
+    justify-content: space-between;
+    color:#000000;
+}
+.menu{
+    display:flex;
+    justify-content:space-around;
+    background-color: #8686FF;
+}
+.items{
+    display:flex;
+    justify-content: space-around;
+    background-color: #FFFF9B;
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+    background-color: #9BFF9B;
+}
+
